@@ -1,0 +1,1 @@
+This project I learned about LINQ and how it works similar to what we previously did with C# excercises. I found these excercises really fun and got a good grasp of it right away. We were actually introduced into unit testing in Visual Basics and got to work with some good practices for writing web API's as well.
